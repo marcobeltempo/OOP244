@@ -5,7 +5,6 @@
 // Date 06/17/16
 // Author Marco Beltempo
 // Email mabeltempo@myseneca.ca
-// SID 031028095
 // Description
 // 
 //
@@ -56,7 +55,7 @@ so A will be to B afterwards.*/
     }
 
     /*Overload the operator= so the following is possible:
-    A = B = "new name": Sets the name of B to ìnew nameî and returns the reference of B.
+    A = B = "new name": Sets the name of B to ‚Äúnew name‚Äù and returns the reference of B.
     */
     Account& Account::operator=(const char name[])
     {
