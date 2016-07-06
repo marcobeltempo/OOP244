@@ -5,7 +5,6 @@
 // Date 06/21/16
 // Author Marco Beltempo
 // Email mabeltempo@myseneca.ca
-// SID 031028095
 // Description
 // 
 //
