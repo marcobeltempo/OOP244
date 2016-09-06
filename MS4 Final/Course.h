@@ -5,9 +5,7 @@
  Date 7/19/16
  Author Marco Beltempo
  Email mabeltempo@myseneca.ca
- SID 031028095
- Description
-
+ 
  Revision History
   __________________________________________________________________________________________
  | Name      | Date  | Reason                                                               |
